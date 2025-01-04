@@ -1,5 +1,6 @@
 ## Streaming Data Pipeline with Apache Kafka on AWS EC2
 This project demonstrates the implementation of a real-time Streaming Data Pipeline using Apache Kafka deployed on an AWS EC2 instance. It showcases how to process streaming data from a CSV file and store it in an AWS S3 Bucket for scalable and reliable data handling.
+![streaming_Architecture](https://github.com/user-attachments/assets/fd4fd145-531d-49d5-8709-39406170db36)
 
 # Key Features:
 - Data Simulation: Simulates real-time data streams using a Python script to read data incrementally from a CSV file.
